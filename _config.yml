@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Canon Zeidan"
+title                    : "Critically Slow"
 title_separator          : "-"
 name                     : &name "Canon Zeidan"
 description              : &description "personal description"
